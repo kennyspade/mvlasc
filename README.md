@@ -37,13 +37,19 @@ Equipment for this field is stored in a section labeled Graham Grass Small 7v7 i
 - No other equipment should be taken from this storage unit.
 
 **Cleanup**
-
+<details>
+  <summary>7v7 and 9v9 Goals</summary>
+  
+  ![7v7 and 9v9 goals locked to the fence](images/GrahamMiddleSchool/GrahamGrass7v7And9v9GoalsLocked.jpg)
+</details>
+- Leave the nets on the goals, pivot the wheels to the down position, and roll the goals back to the east fence closest to the softball field with the goal mouth facing the fence. Position the goals such that the one chain can lock both goals.
 - Return the flags (4) and goal weights (2) to the Graham Storage Unit using the "Setup" directions above and ensure they are placed in the area marked for Graham Grass Small (7v7).
 - Please leave the field cleaner than when you arrived.
 
 ## Graham Middle School Grass Big 9v9 Field
 
 **Rules for Graham Middle School Grass Big 9v9 Field**
+
 > [!IMPORTANT]
 > (Please send to visiting manager)
 
@@ -60,6 +66,7 @@ Equipment for this field is stored in a section labeled Small 7v7 in Unit B on t
 - Roll the goals to the field, swivel the wheels to the up position and place a goal anchor weight on the back of each goal.
 
 **Cleanup**
+
 - Leave the nets on the goals, pivot the wheels to the down position, and roll the goals back to the east fence approximately 25 yards south of the dirt infield with the goal mouth facing the fence. Position the goals such that the one chain can lock both goals.
 - Note that there are two locks connected in sequence so that either lock can release the goals. When you lock up the goals, make sure you lock them in such a way that either lock can still release the goals.
 - Please return the goal anchor weights (2) and flags (4) to the Graham Storage Unit using the "Setup" directions above and ensure they are placed in the area marked for Graham Grass 9v9.
@@ -70,6 +77,7 @@ Equipment for this field is stored in a section labeled Small 7v7 in Unit B on t
 For your team's upcoming game at Graham Middle School Turf Field, here is the schedule for the day and the rules that we need your help enforcing as well as the setup and cleanup procedures that need to be adhered to if your team has one or both of these duties.
 
 **Rules for Graham Middle School Turf Field**
+
 > [!IMPORTANT]
 > (Please send to visiting manager)
 
@@ -89,6 +97,7 @@ Equipment for this field is stored in a section labeled Small 7v7 in Unit B on t
 - Corner flags (4) and bases (4) are retrieved from the Graham Storage Unit located on the back side of the concession/restroom building - Unit B, far left corner under the sign for Graham Turf.
 
 **Additional Requirements for ECNL / NPL / ECNL-RL Games**
+
 ECNL and NPL / ENCL-RL games have additional requirements as outlined in the NorCal Handbooks. MVLA provides equipment to meet these requirements, and it is up to your team to arrange for a volunteer or volunteers to pick up this equipment on the day of your game or coordinate with other teams for a handoff between games. Because this equipment is shared between teams, you must only pick up the equipment allocated to your team on the dates designated to avoid conflicts.
 
 Please note that for ECNL games, teams must provide their own ice and water for every game. This will often end up with extra bottles of water left over at the end of the day. Feel free to leave these in the storage unit at Graham Middle School or offer them to anyone at the game who would like to take them home, but do not leave them at the field.
