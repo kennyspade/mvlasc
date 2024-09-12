@@ -42,6 +42,7 @@ Equipment for this field is stored in a section labeled Graham Grass Small 7v7 i
   
   ![7v7 and 9v9 goals locked to the fence](images/GrahamMiddleSchool/GrahamGrass7v7And9v9GoalsLocked.jpg)
 </details>
+
 - Leave the nets on the goals, pivot the wheels to the down position, and roll the goals back to the east fence closest to the softball field with the goal mouth facing the fence. Position the goals such that the one chain can lock both goals.
 - Return the flags (4) and goal weights (2) to the Graham Storage Unit using the "Setup" directions above and ensure they are placed in the area marked for Graham Grass Small (7v7).
 - Please leave the field cleaner than when you arrived.
